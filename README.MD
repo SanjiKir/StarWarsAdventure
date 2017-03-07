@@ -3,3 +3,4 @@ LMB doubleclick. You can choose the command you want to make from combobox at th
 should write the name of object/person you want to interact with. For example: "open Door password" or "talk Justin" or "take sword" etc. 
 
 You can see how does gui look like here: 
+![Example](StarWars.jpg "How does it look like")
